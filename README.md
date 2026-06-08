@@ -37,7 +37,9 @@ This project transforms raw government crime statistics into a fully interactive
 
 ## TOOLS
 
-| Tool | Purpose ||---|---|| Microsoft Excel | Data cleaning, null handling, column renaming || Power BI Desktop | Data modelling, DAX, visualisation, dashboard design || Power Query (M) | Data transformation and dimension table creation || DAX | Measures for KPIs, rates, rankings, and YoY comparisons |
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Data cleaning, null handling, column renaming || Power BI Desktop | Data modelling, DAX, visualisation, dashboard design || Power Query (M) | Data transformation and dimension table creation || DAX | Measures for KPIs, rates, rankings, and YoY comparisons |
 
 
 ## DATA PROCESSING
